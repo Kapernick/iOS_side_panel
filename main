@@ -1,0 +1,20 @@
+/*
+ *  <side_panel>.cpp
+ *  <iOS side panel>
+ *
+ *  Created by <Nick> on <05.20.2016>.
+ *  Copyright <2016, Nick>. All rights reserved.
+ *
+ */
+
+if side panel is needed
+{
+ open side panel
+}
+else
+{
+ don’t open 
+}
+for panel close {
+ close panel;
+ }
